@@ -2,9 +2,7 @@
 
 ## Term Definitions
 
-Thanks to the amazing team at Skillcrush, lots of [tech
-terms](http://skillcrush.com/terms/) are artfully explained. These are the ones
-you 100% need to know.
+Thanks to the amazing team at Skillcrush, lots of [tech terms](http://skillcrush.com/terms/) are artfully explained. These are the ones you 100% need to know.
 
 | Terms         |               |
 |---------------|---------------| 
