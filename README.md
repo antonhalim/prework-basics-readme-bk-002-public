@@ -2,37 +2,37 @@
 
 ## Term Definitions
 
-Thanks to the amazing team at Skillcrush, lots of [tech terms](http://skillcrush.com/terms/) are artfully explained. These are the ones you 100% need to know.
+Below are some key terms you need to know .
 
 | Terms         |               |
 |---------------|---------------| 
-| <a href="http://www.skillcrush.com/terms/domain.html">Domain</a> | Ever wonder what that thing in the top of the browser is? | 
-| <a href="http://www.skillcrush.com/terms/pop-imap.html">POP & IMAP</a> | POP, IMAP, SMTP Oh My! It's only email, don't be scared. |
-| <a href="http://www.skillcrush.com/terms/api.html">API</a> | We're building programs that can talk to other programs. Their APIs are their languages. Sort of. |
-| <a href="http://www.skillcrush.com/terms/wysiwyg.html">WYSIWYG</a> | You can't always get what you want, but sometimes, What You See Is What You Get. |
-| <a href="http://www.skillcrush.com/terms/ipaddress.html">IP Address</a> | There's no place like 127.0.0.1, there's no place like 0.0.0.0, there's no place like localhost. |
-| <a href="http://www.skillcrush.com/terms/web-server.html">Web Server</a> | Apache, Puma, Unicorn, Thin, IIS, Mongrel, don't be scared, they are just the beasts behind the world wide web. |
-| <a href="http://www.skillcrush.com/terms/bugs.html">Bugs</a> | The term 'debugging' was coined by <a href="http://en.wikipedia.org/wiki/Grace_Hopper">Grace Hopper</a> when she literally removed a moth from her computer to get it working. |
-| <a href="http://www.skillcrush.com/terms/dns.html">DNS</a> | Finally understand how <code><a href="http://74.125.228.4">74.125.228.4</a></code> actually means google.com |
-| <a href="http://www.skillcrush.com/terms/cloud.html">The Cloud</a> | It's like instead of your head being in the clouds, it's all your infrastructure. |
-| <a href="http://www.skillcrush.com/terms/command-line.html">Command Line</a> | Live deep in the nix heartland and become a loving extension of the shell. |
-| <a href="http://www.skillcrush.com/terms/version-control.html">Version Control</a> | Rule 1. Never lose code. Rule 2. Never lose code. |
-| <a href="http://www.skillcrush.com/terms/grid-systems.html">Grid Systems</a> | Just because we're not designers doesn't mean we shouldn't appreciate and respect their grids. |
-| <a href="http://www.skillcrush.com/terms/rails.html">Rails</a> | Not liking Ruby on Rails is like not liking parfait. |
-| <a href="http://www.skillcrush.com/terms/cookies.html">Cookies</a> | There's probably a pun we could come up with, but we take security seriously. |
-| <a href="http://www.skillcrush.com/terms/404-error.html">404 Error</a> | The web's <a href="http://fruit.gs/404.html">best</a> <a href="https://github.com/404">easter</a> <a href="http://seatgeek.com/404">egg</a>. |
-| <a href="http://www.skillcrush.com/terms/responsive-design.html">Responsive Design</a> | Keep your mind like water, but your design should be fluid and screen independent. |
-| <a href="http://www.skillcrush.com/terms/seo.html">SEO</a> | Despite what you might read, it's basically just black magic, the dark arts, the voodoo that gives traffic. |
-| <a href="http://www.skillcrush.com/terms/hexidecimal.html">Hex</a> | Because green to you might not be green to me. So there's these really specific codes we use for colors. |
-| <a href="http://www.skillcrush.com/terms/ruby.html">Ruby</a> | The. Best. Programming. Language. Ever. Period. We. Promise. |
-| <a href="http://www.skillcrush.com/terms/cms.html">CMS</a> | All applications are basically just content management systems anyway. |
-| <a href="http://www.skillcrush.com/terms/pseudocode.html">Pseudo Code</a> | First learn to express yourself. Then learn to code. |
-| <a href="http://www.skillcrush.com/terms/https.html">HTTPS</a> | Insecure content warnings? HTTP Sniffing? Here's why. |
-| <a href="http://www.skillcrush.com/terms/open-source.html">Open Source</a> | It's sort of impossible for me to quantify the impact open source software has made, but at <a href="http://trends.builtwith.com/Web-Server/Apache">least 64%</a> of the top million websites are powered by it. |
-| <a href="http://www.skillcrush.com/terms/ajax.html">AJAX</a> | And <a href="http://www.adaptivepath.com/ideas/ajax-new-approach-web-applications">one day in February 2005</a>, the Internet suddenly felt different. |
-| <a href="http://www.skillcrush.com/terms/frontendbackend.html">Frontend / Backend</a> | What's the difference? Turns out, less and less. |
-| <a href="http://www.skillcrush.com/terms/javascript.html">Javascript</a> | The most pervasive and ubiquitous programming language since Flash. |
-| <a href="http://www.skillcrush.com/terms/programming-languages.html">Programming</a> | It's awesome. |
-| <a href="http://www.skillcrush.com/terms/database.html">Database</a> | Just think Excel spreadsheet on crack. Better. We mean better. |
-| <a href="http://www.skillcrush.com/terms/css.html">CSS</a> | We could never love anyone that didn't appreciate the importance of a separation of content and style. |
-| <a href="http://www.skillcrush.com/terms/html.html">HTML</a> | All documents should come in this format. |
+| Domain | The domain is the name of the website you type into your browser, like `http://www.flatironschool.com`  | 
+| POP & IMAP | POP and IMAP are ways of connecting email programs to your email account. POP will send email to your program, but wont know when you delete or read an email. IMAP keeps track of when you read or delete an email, so your email looks the same on the web or in a program.|
+| API | API Stands for Application Programming Interface. It's just a way to communicate from one program to another.  |
+| WYSIWYG| WYSIWYG stands for What You See is What You Get. When you format text on the web and it shows up on the website the way you formatted it, you are using a WYSIWYG editor. |
+| IP Address | An IP address is the actual address a computer uses to find a website, so you can find facebook by typing http://173.252.120.6 or facebook.com into the address bar of your browser. |
+| Web Server | A web server is the program that actually makes your website available on the internet. It handles requests from browsers, and sends responses. |
+| Bugs| The term 'debugging' was coined by <a href="http://en.wikipedia.org/wiki/Grace_Hopper">Grace Hopper</a> when she literally removed a moth from her computer to get it working. A bug is just something wrong in your code.|
+| DNS | DNS stands for Domain Name System. When you type in facebook.com, a search is done for the IP address connected to that human readable name. You can also just go straight to the IP address and skip the DNS. |
+| The Cloud | When your server is somewhere connected to the internet, it's called being in the cloud. Just remember, the internet is the cloud. Your website is in the cloud once you publish it to the internet |
+| Command Line | If you open the Terminal application on your Mac, you are able to interact with your computer with text commands, this is called the Command Line |
+| Version Control | Version control is like save points for your code. You can roll back to a previous save point, and see what is different between save points. |
+| Grid Systems | HTML elements are layed out on a page in a grid, which makes it easier to layout and organize content and design |
+| Rails | Ruby on Rails is a web framework for making websites and APIs. |
+| Cookies | A small piece of data sent from a website and stored in a user's web browser while the user is browsing that website. Every time the user loads the website, the browser sends the cookie back to the server to notify the website of the user's previous activity. |
+| 404 Error | A 404 error is what a web server returns to you when you try to go to a webpage that doesn't exist. |
+| Responsive Design | A website has a responsive design if it looks good on any screen size and automatically adjusts when you adjust the size of your browser |
+| SEO | Search Engine Optimization is a term for optimizing your website for search engine crawlers, like adding header fields that say what your website is called |
+| Hex | Because green to you might not be green to me. So there's these really specific codes we use for colors. |
+| Ruby | A programming language |
+| CMS | Wordpress is an example of a Content Management System (CMS). It's just a web application that stores content |
+| Pseudo Code | Pseudo code is what you write when you're trying to figure out how to solve a problem without worrying about getting the syntax of the code exactly right |
+| HTTPS | Hypertext Transfer Protocol Secure. A secure way to transfer information, like passwords from the browser to the web server |
+| Open Source | It's sort of impossible for me to quantify the impact open source software has made, but at <a href="http://trends.builtwith.com/Web-Server/Apache">least 64%</a> of the top million websites are powered by it. |
+| AJAX | Stands for Asynchronous JavaScript + XML. It's used to send/recieve a request/response from a web server to update a part of a web page without having to refresh the entire page. |
+| Frontend / Backend | The front end is how a page looks, the back end is the server and code that makes website do things like save data and log users in |
+| Javascript | The most pervasive and ubiquitous programming language. It's built into every web browser and is the only programming language you can use on the front end |
+| Programming | It's awesome. |
+| Database | Just think Excel spreadsheet on crack. Better. We mean better. |
+| CSS | Cascading Style Sheets are where you put all your style information for the front end of your website |
+| HTML | HyperText Markup Language is the layout language browsers use to structure websites. HTML is like the girders in a building |
