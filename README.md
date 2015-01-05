@@ -31,7 +31,7 @@ Below are some key terms you need to know .
 | Open Source | It's sort of impossible for me to quantify the impact open source software has made, but at <a href="http://trends.builtwith.com/Web-Server/Apache">least 64%</a> of the top million websites are powered by it. |
 | AJAX | Stands for Asynchronous JavaScript + XML. It's used to send/recieve a request/response from a web server to update a part of a web page without having to refresh the entire page. |
 | Frontend / Backend | The front end is how a page looks, the back end is the server and code that makes website do things like save data and log users in |
-| Javascript | The most pervasive and ubiquitous programming language. It's built into every web browser and is the only programming language you can use on the front end |
+| JavaScript | The most pervasive and ubiquitous programming language. It's built into every web browser and is the only programming language you can use on the front end |
 | Programming | It's awesome. |
 | Database | Just think Excel spreadsheet on crack. Better. We mean better. |
 | CSS | Cascading Style Sheets are where you put all your style information for the front end of your website |
